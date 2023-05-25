@@ -43,5 +43,5 @@ The app provides the following features:
 - Node.js v14.16.0
 - Express v4.16.4
 - Express-Handlebars v3.0.0
-- Bootstrap v5.3.0
+- Bootstrap v5.1.3
 - Font-Awesome v6.4.0
